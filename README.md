@@ -31,6 +31,8 @@ Goal: Isolate the impact of logistics on customer satisfaction.
 
 Analysis: Correlate Actual Delivery Time with Rating to determine the penalty for late deliveries, identifying specific city/restaurant bottlenecks for operational improvements.
 
+You can refer to the complete details about the analysis at: https://wise-guide-b2d.notion.site/Project-ObjectivePortfolio-Project-Case-Study-Swiggy-Sales-Performance-Deep-DiveSwiggy-Sales-Anal-2acb078ce886815baea6ea99c3431b6b
+
 
 
 
